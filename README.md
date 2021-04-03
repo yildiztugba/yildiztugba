@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yildiztugba)](https://github.com/yildiztugba/github-readme-stats)
 <!--
 **yildiztugba/yildiztugba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
