@@ -4,10 +4,11 @@ I'm student at Hack your future to become a great Software developer. I have a b
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yildiztugba)](https://github.com/yildiztugba/github-readme-stats)
 
-:pencil2: I’m currently working on HTML,CSS.
-:key: I’m currently learning software development.
-:mailbox_with_mail: How to reach me: okra.yildiz@gmail.com
-:zap: Fun fact: I love singing but i have a very bad voice.
+* :pencil2: I’m currently working on HTML,CSS.
+* :key: I’m currently learning software development.
+* :mailbox_with_mail: How to reach me: okra.yildiz@gmail.com
+* :zap: Fun fact: I love singing but i have a very bad voice.
+
 <!--
 **yildiztugba/yildiztugba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
