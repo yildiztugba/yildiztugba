@@ -2,7 +2,7 @@
 
 I'm student at Hack your future to become a great Software developer. I have a bachelor degree in the department of Computer Teacher. While I'm refreshing my knowledge and learning more things,I will put all my studies in here.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yildiztugba)](https://github.com/yildiztugba/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yildiztugba&theme=outrun&show_icons=true)](https://github.com/yildiztugba/github-readme-stats)
 
 * :pencil2: I’m currently working on HTML,CSS.
 * :key: I’m currently learning software development.
