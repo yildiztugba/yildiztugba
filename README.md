@@ -1,6 +1,6 @@
 # Hi, I'm Tugba Yildiz :hand:
 
-I'm student at Hack your future to become a Software developer. I have a bachelor's degree in Teaching Computer Education. While I'm refreshing my knowledge and learning more things, I will put all my studies in here.
+I'm a Junior Software Developer. I have a bachelor's degree in Teaching Computer Education. While I'm refreshing my knowledge and learning more things, I will put all my studies in here.
 
 * :pencil2:I finished a software training program in Hack Your Future.
 * :key: I’ve  experiences on Javascript, Vue.js, Bootsrap, RestAPI.
