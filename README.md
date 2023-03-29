@@ -1,6 +1,6 @@
 # Hi, I'm Tugba Yildiz
 
-I'm Front-end Developer, having a bachelor's degree in Teaching Computer Education
+I'm Front-end Developer, having a bachelor's degree in Teaching Computer Education. I'm currently developing projects on React & Next.js. 
 ## My skills
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
