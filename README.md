@@ -1,9 +1,6 @@
 # Hi, I'm Tugba Yildiz
 
 I'm Front-end Developer, having a bachelor's degree in Teaching Computer Education
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yildiztugba&theme=outrun&show_icons=true)](https://github.com/yildiztugba/github-readme-stats)
-
 ## My skills
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -22,6 +19,9 @@ I'm Front-end Developer, having a bachelor's degree in Teaching Computer Educati
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yildiztugba&theme=outrun&show_icons=true)](https://github.com/yildiztugba/github-readme-stats)
+
 <!--
 **yildiztugba/yildiztugba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
