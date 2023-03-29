@@ -1,6 +1,10 @@
 # Hi, I'm Tugba Yildiz
 
-I'm Front-end Developer, having a bachelor's degree in Teaching Computer Education. I'm currently developing projects on React & Next.js. 
+I'm Front-end Developer, having a bachelor's degree in Teaching Computer Education. I'm currently developing projects on React & Next.js. Contact me: okra.yildiz@gmail.com 
+
+- :thinking: I’m currently open for a `job opportunity`,
+- :mailbox_with_mail: okra.yildiz@gmail.com
+- :arrow_forward: Linkedin: https://www.linkedin.com/in/yildiztugba/
 ## My skills
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
